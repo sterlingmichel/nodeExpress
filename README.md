@@ -9,7 +9,7 @@
   TSC is the main build tool to concatenate, compress or minify the source code for faster loading/execution time when the application will be deployed to production.
 
 
-### Functional Programming, Revealing Module Pattern & IIFE
+### Functional Programming, Revealing Module Pattern
 
   The Application was mostly implemented using the modern typescruipt Programming standard.
 
